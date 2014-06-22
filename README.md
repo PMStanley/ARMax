@@ -2,7 +2,7 @@ ARMax
 =========
 
 ARMax is a Delphi unit for working with Action Replay Max (AR Max) save files for the Playstation 2.
-It is the core code used in the ARMax.dll available at [PS2 Save Tools]
+It is the core code used in ARMaxDLL available at [PS2 Save Tools].
 
 
 
@@ -32,7 +32,7 @@ Remove unnecessary references and debug code utilising dialogs and memos.
 License
 ----
 
-* ARMAx.pas - MIT
+* ARMax.pas - MIT
 * CRC32.pas - unknown at this time
 * myLZAri.pas - unknown at this time
 
