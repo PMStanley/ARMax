@@ -16,5 +16,8 @@ Using ARMaxDLL.dll from C#/.NET will require you to target x86, not 'AnyCPU'
 Internal file '0' does not exist, when using functions that take file index, valid values are 1 +.
 Not all functions exposed by ARMaxDLL.dll are wrapped by the native methods class.
 
-For functions that do not info about file position or size:
-	 0 ==> good; other == error
+For functions that do not return info about file position or size:
+
+	 return value 0 ==> good; return value other == error 
+	 
+	 Consult ARMAx wiki for error codes
