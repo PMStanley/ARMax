@@ -12,6 +12,8 @@ Usage
 
 Simply add the unit to your project as you would any other Delphi unit.
 
+See Wiki for API: https://github.com/PMStanley/ARMax/wiki 
+
 
 
 Additional information
